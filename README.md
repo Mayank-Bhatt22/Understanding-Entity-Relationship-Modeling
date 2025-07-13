@@ -1,8 +1,8 @@
 # Understanding-Entity-Relationship-Modeling
-Built a relational database system using SQL with E-R modeling, keys, and realistic relationships. This project will be expanded with additional real-world database modules.
+Built a relational database system using SQL with E-R modeling, keys, and realistic relationships. 
 
 # 🗃️ Relational Database Systems with SQL
-This project is a collection of relational database systems built using SQL, starting with a Student-Course Enrollment System based on E-R modeling and normalization principles.
+This project is a collection of relational database systems built using SQL, based on E-R modeling and normalization principles.
 
 # 🧠 Key Concepts Applied
 Relational Database Design
@@ -12,8 +12,3 @@ Primary and Foreign Keys
 Many-to-Many Relationships
 Data Integrity
 Sample Data Insertion
-
-# 💡 How to Use
-Clone the repo
-Run .sql files in any SQL-compatible environment (e.g., MySQL, PostgreSQL)
-Use SELECT and JOIN queries to explore relationships
