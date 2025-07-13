@@ -13,7 +13,7 @@ Many-to-Many Relationships
 Data Integrity
 Sample Data Insertion
 
-#💡 How to Use
+# 💡 How to Use
 Clone the repo
 Run .sql files in any SQL-compatible environment (e.g., MySQL, PostgreSQL)
 Use SELECT and JOIN queries to explore relationships
